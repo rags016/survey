@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489515173339",
+    "firebase_url": "https://single-bindery-121709.firebaseio.com",
+    "project_id": "single-bindery-121709",
+    "storage_bucket": "single-bindery-121709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489515173339:android:77a4ff53b34a56469e13fe",
+        "android_client_info": {
+          "package_name": "com.bestpractices.learning.survey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489515173339-rapn36a1bko40ngsus1oiil4s3bsr4ci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bestpractices.learning.survey",
+            "certificate_hash": "15c133626b321748de7c2b3f03ff088a61102e38"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3qAekJKCD_8ajS8MnwmNK1RHPBS5joe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
